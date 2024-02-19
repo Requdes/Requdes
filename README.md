@@ -43,6 +43,7 @@
   <a href="#"><img src="https://github.com/Requdes/Requdes/blob/main/Resources/Images/Badges/Tools/Git.png" height="35"></a>
   <a href="#"><img src="https://github.com/Requdes/Requdes/blob/main/Resources/Images/Badges/Tools/GitHub.png" height="35"></a>
   <a href="#"><img src="https://github.com/Requdes/Requdes/blob/main/Resources/Images/Badges/Tools/Bitbucket.png" height="35"></a>
+  <a href="#"><img src="https://github.com/Requdes/Requdes/blob/main/Resources/Images/Badges/Tools/NuGet.png" height="35"></a>
   <a href="#"><img src="https://github.com/Requdes/Requdes/blob/main/Resources/Images/Badges/Tools/Trello.png" height="35"></a>
   <a href="#"><img src="https://github.com/Requdes/Requdes/blob/main/Resources/Images/Badges/Tools/Jira.png" height="35"></a>
   <a href="#"><img src="https://github.com/Requdes/Requdes/blob/main/Resources/Images/Badges/Tools/Figma.png" height="35"></a>
