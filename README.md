@@ -13,7 +13,6 @@
   <a href="#"><img src="https://github.com/Requdes/Requdes/blob/main/Resources/Images/Badges/Specialization/Profiling.png" height="35"></a>
   <a href="#"><img src="https://github.com/Requdes/Requdes/blob/main/Resources/Images/Badges/Specialization/Debugging.png" height="35"></a>
   <a href="#"><img src="https://github.com/Requdes/Requdes/blob/main/Resources/Images/Badges/Specialization/Testing.png" height="35"></a>
-  <a href="#"><img src="https://github.com/Requdes/Requdes/blob/main/Resources/Images/Badges/Specialization/Localization.png" height="35"></a>
   <a href="#"><img src="https://github.com/Requdes/Requdes/blob/main/Resources/Images/Badges/Specialization/Documentation.png" height="35"></a>
   <a href="#"><img src="https://github.com/Requdes/Requdes/blob/main/Resources/Images/Badges/Specialization/AI.png" height="35"></a>
 </div>
